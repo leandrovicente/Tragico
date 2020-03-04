@@ -1,15 +1,17 @@
 # CRUD usando Python e framework Flask
 
-<pre>
-<code>
+O primeiro passo a se fazer é instalar o pip que é o gerenciador de pacotes do python.
+
+
 pip install Flask
-</code>
-</pre>
 
-<pre>
-<code>
+Depois é necessário ativar o virtualenv, para isso acesse o diretório cd /crud e depois digite source bin/active.
+
+Agora, acesse o diretório pelo comando cd /projeto.
+
+Por fim, digite o comando em seu terminal:
+
+
 python app.py
-</code>
-</pre>
 
-Pronto! A aplicação Flask já está rodando. Abra seu navegador e digite <i>localhost:5000</i>.
+Pronto! A aplicação Flask já está rodando. Abra seu navegador e digite localhost:5000.
